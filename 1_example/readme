@@ -1,0 +1,8 @@
+link the library to the given lib:
+e.g.
+export LD_LIBRARY_PATH=$LD_LIBARY_PATH:XXX/library
+
+run the simulation in Linux:
+./ogs model_triaxtest.prj >out
+
+ogs_local was used here
