@@ -1,0 +1,24 @@
+// Gmsh project created on Wed Sep 10 13:22:24 2014 mm
+    xmin = 0;                                 
+    xmax = 25;                                  
+    ymin = 0;                                    
+    ymax = 100;                                    
+    NX = 10;                                     
+    NY = 40;                                     
+    Point (1) = {xmin, ymin, 0};//set points         
+    Point (2) = {xmax, ymin, 0};                 
+    Point (3) = {xmax, ymax, 0};                 
+    Point (4) = {xmin, ymax, 0};                 
+
+    Line (1) = {1,2};//connect points to line                      
+    Line (2) = {2,3};                            
+    Line (3) = {3,4};                            
+    Line (4) = {4,1};                                                                     
+    Transfinite Line {1,-3} = NX +1;//set nodes on each line
+    Transfinite Line {2,-4} = NY +1;              
+
+    Line Loop (1) = {1,2,3,4};//creat sealed lines
+    Plane Surface (1) = {1};//creat surface             
+        Physical Surface(1) = {1};//  
+    Transfinite Surface {1};//define mesh on the surface           
+    Recombine Surface {1};//constructure  
