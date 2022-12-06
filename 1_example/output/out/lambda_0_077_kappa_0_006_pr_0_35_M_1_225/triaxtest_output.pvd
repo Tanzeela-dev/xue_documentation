@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1" byte_order="LittleEndian" compressor="vtkZLibDataCompressor">
+  <Collection>
+    <DataSet timestep="0" group="" part="0" file="triaxtest_output_ts_0_t_0.000000.vtu"/>
+    <DataSet timestep="0.001" group="" part="0" file="triaxtest_output_ts_1_t_0.001000.vtu"/>
+    <DataSet timestep="0.0022" group="" part="0" file="triaxtest_output_ts_2_t_0.002200.vtu"/>
+    <DataSet timestep="0.00364" group="" part="0" file="triaxtest_output_ts_3_t_0.003640.vtu"/>
+    <DataSet timestep="0.005368" group="" part="0" file="triaxtest_output_ts_4_t_0.005368.vtu"/>
+    <DataSet timestep="0.0074416" group="" part="0" file="triaxtest_output_ts_5_t_0.007442.vtu"/>
+    <DataSet timestep="0.00992992" group="" part="0" file="triaxtest_output_ts_6_t_0.009930.vtu"/>
+    <DataSet timestep="0.012915904" group="" part="0" file="triaxtest_output_ts_7_t_0.012916.vtu"/>
+    <DataSet timestep="0.0164990848" group="" part="0" file="triaxtest_output_ts_8_t_0.016499.vtu"/>
+    <DataSet timestep="0.02079890176" group="" part="0" file="triaxtest_output_ts_9_t_0.020799.vtu"/>
+    <DataSet timestep="0.025958682112" group="" part="0" file="triaxtest_output_ts_10_t_0.025959.vtu"/>
+    <DataSet timestep="0.0321504185344" group="" part="0" file="triaxtest_output_ts_11_t_0.032150.vtu"/>
+    <DataSet timestep="0.03958050224128" group="" part="0" file="triaxtest_output_ts_12_t_0.039581.vtu"/>
+    <DataSet timestep="0.048496602689536" group="" part="0" file="triaxtest_output_ts_13_t_0.048497.vtu"/>
+    <DataSet timestep="0.0591959232274432" group="" part="0" file="triaxtest_output_ts_14_t_0.059196.vtu"/>
+    <DataSet timestep="0.0720351078729318" group="" part="0" file="triaxtest_output_ts_15_t_0.072035.vtu"/>
+    <DataSet timestep="0.0874421294475182" group="" part="0" file="triaxtest_output_ts_16_t_0.087442.vtu"/>
+    <DataSet timestep="0.105930555337022" group="" part="0" file="triaxtest_output_ts_17_t_0.105931.vtu"/>
+    <DataSet timestep="0.128116666404426" group="" part="0" file="triaxtest_output_ts_18_t_0.128117.vtu"/>
+    <DataSet timestep="0.154739999685311" group="" part="0" file="triaxtest_output_ts_19_t_0.154740.vtu"/>
+    <DataSet timestep="0.186687999622374" group="" part="0" file="triaxtest_output_ts_20_t_0.186688.vtu"/>
+    <DataSet timestep="0.225025599546848" group="" part="0" file="triaxtest_output_ts_21_t_0.225026.vtu"/>
+    <DataSet timestep="0.271030719456218" group="" part="0" file="triaxtest_output_ts_22_t_0.271031.vtu"/>
+    <DataSet timestep="0.326236863347462" group="" part="0" file="triaxtest_output_ts_23_t_0.326237.vtu"/>
+    <DataSet timestep="0.392484236016954" group="" part="0" file="triaxtest_output_ts_24_t_0.392484.vtu"/>
+    <DataSet timestep="0.471981083220345" group="" part="0" file="triaxtest_output_ts_25_t_0.471981.vtu"/>
+    <DataSet timestep="0.567377299864414" group="" part="0" file="triaxtest_output_ts_26_t_0.567377.vtu"/>
+    <DataSet timestep="0.667377299864414" group="" part="0" file="triaxtest_output_ts_27_t_0.667377.vtu"/>
+    <DataSet timestep="0.767377299864414" group="" part="0" file="triaxtest_output_ts_28_t_0.767377.vtu"/>
+    <DataSet timestep="0.867377299864414" group="" part="0" file="triaxtest_output_ts_29_t_0.867377.vtu"/>
+    <DataSet timestep="0.967377299864414" group="" part="0" file="triaxtest_output_ts_30_t_0.967377.vtu"/>
+    <DataSet timestep="1" group="" part="0" file="triaxtest_output_ts_31_t_1.000000.vtu"/>
+  </Collection>
+</VTKFile>
